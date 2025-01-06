@@ -5,15 +5,8 @@ This is a simple web app built using **Streamlit** that performs sentiment analy
 ## Features
 - Text input for users to analyze sentiment.
 - Displays sentiment category: Positive, Negative, or Neutral.
-- Shows polarity and subjectivity values.
 
 ## Technologies Used
 - **Streamlit**: Web app framework.
 - **TextBlob**: For sentiment analysis.
 - **Pandas**: For data handling (if needed).
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-web-app.git
